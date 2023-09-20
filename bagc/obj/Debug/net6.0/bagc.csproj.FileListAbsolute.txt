@@ -1,0 +1,15 @@
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.csproj.AssemblyReference.cache
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.AssemblyInfoInputs.cache
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.AssemblyInfo.cs
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\Desktop\bagc\bin\Debug\net6.0\bagc.exe
+C:\Users\is22-11\Desktop\bagc\bin\Debug\net6.0\bagc.deps.json
+C:\Users\is22-11\Desktop\bagc\bin\Debug\net6.0\bagc.runtimeconfig.json
+C:\Users\is22-11\Desktop\bagc\bin\Debug\net6.0\bagc.dll
+C:\Users\is22-11\Desktop\bagc\bin\Debug\net6.0\bagc.pdb
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.dll
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\refint\bagc.dll
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.pdb
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\bagc.genruntimeconfig.cache
+C:\Users\is22-11\Desktop\bagc\obj\Debug\net6.0\ref\bagc.dll
